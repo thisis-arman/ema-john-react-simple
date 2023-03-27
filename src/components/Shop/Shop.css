@@ -1,0 +1,16 @@
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* padding: 10px; */
+    
+    /* gap: 10px; */
+}
+
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.container__product{
+    margin: 50px;
+   
+}
